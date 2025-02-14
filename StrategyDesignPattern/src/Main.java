@@ -4,9 +4,9 @@ public class Main {
         gv.drive();
 
         SportsCar mustang = new SportsCar();
-        Vehicle nexon = new SUV();
+        // Vehicle nexon = new SUV();
 
         mustang.drive();
-        nexon.drive();
+        // nexon.drive();
     }
 }
