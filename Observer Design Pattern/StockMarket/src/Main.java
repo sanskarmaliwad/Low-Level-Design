@@ -15,8 +15,11 @@ public class Main {
         TataStocks.add(emailObserver);
 
         TataStocks.setStockPrice(20.22);
-//        TataStocks.setStockPrice(0);
-//        TataStocks.setStockPrice(90.22);
+
+
+        // Experimental Code 
+       TataStocks.setStockPrice(0);
+       TataStocks.setStockPrice(90.22);
 
     }
 }
