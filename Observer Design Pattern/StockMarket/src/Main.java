@@ -21,5 +21,9 @@ public class Main {
        TataStocks.setStockPrice(0);
        TataStocks.setStockPrice(90.22);
 
+       // Experimental Code 1
+       TataStocks.setStockPrice(1);
+       TataStocks.setStockPrice(888);
+
     }
 }
