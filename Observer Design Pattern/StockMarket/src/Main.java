@@ -25,8 +25,13 @@ public class Main {
        TataStocks.setStockPrice(1);
        TataStocks.setStockPrice(888);
 
-       //Add Experminetal Code 2
-       TataStocks.setStockPrice(439);
+       //Added Experimental Code 2 
+       TataStocks.setStockPrice(1299);
+       TataStocks.setStockPrice(2345678);
+
+       //Added Experimental Code 3
+       TataStocks.setStockPrice(19);
+       TataStocks.setStockPrice(2378);
 
     }
 }
